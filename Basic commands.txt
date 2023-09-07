@@ -1,0 +1,2 @@
+make a folder "npm init" and "npm i mongoose express dotenv nodemon" then make two directory frontend and backend
+for run app "npm run dev"
